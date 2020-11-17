@@ -1,5 +1,5 @@
 {
-  "name": "@snv/ckeditor5-build-inline",
+  "name": "snv-ck5-build-inline",
   "version": "23.1.0",
   "description": "The inline editor build of CKEditor 5 – the best browser-based rich text editor.",
   "keywords": [
@@ -63,12 +63,12 @@
   "license": "GPL-2.0-or-later",
   "homepage": "https://ckeditor.com/ckeditor-5",
   "bugs": {
-    "url": "https://github.com/ckeditor/ckeditor5/issues"
+    "url": "https://github.com/sonnv25/ckeditor5-custom-build-alignment/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ckeditor/ckeditor5.git",
-    "directory": "packages/ckeditor5-build-inline"
+    "url": "git+https://github.com/sonnv25/ckeditor5-custom-build-alignment.git",
+    "directory": "sonnv25/ckeditor5-custom-build-alignment"
   },
   "scripts": {
     "build": "webpack --mode production",
